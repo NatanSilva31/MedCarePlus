@@ -22,7 +22,7 @@ Natanael Silva<br/>
 
 - [Figma] (https://www.figma.com/design/xm65LVInzZkKAaKaXqogsn/PI---APP-Sa%C3%BAde?node-id=0-1&t=blUmZ3SNKI5ZYfqa-1)
 
- ![Fluxograma]()
+ ![Fluxograma](https://github.com/NatanSilva31/MedCarePlus/blob/master/mobile/assets/fluxograma.png)
 
 
 ## Tecnologias ⚙️
