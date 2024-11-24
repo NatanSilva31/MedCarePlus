@@ -22,7 +22,7 @@ Fernando Matheus Ribeiro de Jesus<br/>
 📧 E-mail: fernandoribeiromatheus@gmail.com<br/>
 🌐 GitHub: github.com/FernandoRibeiro1914<br/>
 
-Karen Evellyn Muniz Silva <br/>
+Karen Evellyn Muniz Silva<br/>
 📧 E-mail: kahevy20@gmail.com/>
 🌐 GitHub: github.com/KarenEvellyn<br/>
 
